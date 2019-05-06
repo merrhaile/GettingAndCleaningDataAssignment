@@ -59,4 +59,5 @@ All_data_mean_std:    a subset of the combined data that has mean and standard d
 
 All_data_average:     a subset of the combined data that contains the average of each feature grouped by
                       activity 
-                      
+     
+     
